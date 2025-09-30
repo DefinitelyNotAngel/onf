@@ -113,9 +113,6 @@ function initializePlaylist() {
     addSongToPlaylist('./muzica/Mihai Margineanu - Duru-duru.mp3', 'Mihai Margineanu - Duru-duru');
     addSongToPlaylist('./muzica/Romania National Anthem (Instrumental).mp3', 'Imnul National');
     addSongToPlaylist('./muzica/Margineanu - Maritza [music].mp3', 'Margineanu - Maritza');
-    addSongToPlaylist('./muzica/7 sheep.mp3', 'sheep 1');
-    addSongToPlaylist('./muzica/8 muzica club.mp3', 'muzica de club');
-    addSongToPlaylist('./muzica/9 goodbye blue sky.mp3', 'goodbye blue sky');
 
     // Example with absolute paths (files on your computer)
     // Note: These will only work if running the app locally
