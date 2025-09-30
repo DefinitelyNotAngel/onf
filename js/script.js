@@ -106,25 +106,16 @@ function initializePlaylist() {
     // You can use relative paths (if files are in your project) or absolute URLs
 
     // Example with relative paths (files in your project)
-    addSongToPlaylist('./muzica/1 paper aeroplane.mp3', 'paper aeroplane');
-    addSongToPlaylist('./muzica/2 echoes.mp3', 'Echoes 1');
-    addSongToPlaylist('./muzica/3 echoes.mp3', 'Echoes 2');
-    addSongToPlaylist('./muzica/4 hey you.mp3', 'hey you 1');
-    addSongToPlaylist('./muzica/5 anxiety.mp3', 'anxiety');
-    addSongToPlaylist('./muzica/6 hey you.mp3', 'hey you 2');
+    addSongToPlaylist('./muzica/Timpuri Noi - Veta.mp3', 'Timpuri Noi - Veta');
+    addSongToPlaylist('./muzica/More 1930s Music From The Golden Age _ Old Dusty Fascinated Romantic Songs [DEAhALo9cpw].mp3', 'Old music2');
+    addSongToPlaylist('./muzica/Margineanu - Femei Femei.mp3', 'Margineanu - Femei Femei');
+    addSongToPlaylist('./muzica/Stefan Banica Jr. - Veta (original).mp3', 'Stefan Banica Jr. - Veta');
+    addSongToPlaylist('./muzica/Mihai Margineanu - Duru-duru.mp3', 'Mihai Margineanu - Duru-duru');
+    addSongToPlaylist('./muzica/Romania National Anthem (Instrumental).mp3', 'Imnul National');
+    addSongToPlaylist('./muzica/Margineanu - Maritza [music].mp3', 'Margineanu - Maritza');
     addSongToPlaylist('./muzica/7 sheep.mp3', 'sheep 1');
     addSongToPlaylist('./muzica/8 muzica club.mp3', 'muzica de club');
     addSongToPlaylist('./muzica/9 goodbye blue sky.mp3', 'goodbye blue sky');
-    addSongToPlaylist('./muzica/10 sheep.mp3', 'sheep 2');
-    addSongToPlaylist('./muzica/11 hey you.mp3', 'hey you 3');
-    addSongToPlaylist('./muzica/12 sheep.mp3', 'sheep 3');
-    addSongToPlaylist('./muzica/13 alain delon comme au cinema.mp3', 'comme au cinema');
-    addSongToPlaylist('./muzica/14 aplauze alain delon comme au cinema.mp3', 'aplauze');
-    addSongToPlaylist('./muzica/15 pink floyd-coming back to life.mp3', 'coming back to life');
-    addSongToPlaylist('./muzica/16 hey you.mp3', 'hey you 4');
-    addSongToPlaylist('./muzica/17 keep talking-pink floyd.mp3', 'keep talking');
-    addSongToPlaylist('./muzica/18 time pink floyd.mp3', 'time pink floyd');
-    addSongToPlaylist('./muzica/19 delicate ssound of thunder.mp3', 'delicate sound of thunder');
 
     // Example with absolute paths (files on your computer)
     // Note: These will only work if running the app locally
